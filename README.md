@@ -3,4 +3,7 @@ This repository contains scripts to get started with Deep Learning. Apart for th
 
 The folder  MLP contains low level implemetation of a multilayer perceptron. Further it also contains few failed scripts and their visualization using tensorboard. The file Tensorflowcore contains various small programming tasks solved using Tensorflow functions.
 
+The CNN folder contains a CNN (built with Keras). They use the Keras losses, optimizers and metrics. 
+
+
 
