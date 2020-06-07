@@ -1,4 +1,4 @@
-# Introduction-to-Deep-Learning
+# Deep Learning
 This repository contains scripts to get started with Deep Learning. Apart for the low level implementation, it also contains implementations of the various Neural network architectures using the keras libraries. All the scripts use Tensorflow 2.x
 
 ## MLP
